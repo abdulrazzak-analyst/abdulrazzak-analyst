@@ -20,6 +20,7 @@ I work in accounting and GST compliance, and I'm moving into business analysis. 
 
 | Project | Tools | Status |
 |---|---|---|
+| [Consumer Attitude & Awareness on Green Products](https://github.com/abdulrazzak-analyst/green-products-survey) | Survey design · Percentage analysis | ✅ Completed |
 | GST Sales & Tax Liability Dashboard | Excel · SQL · Power BI | 🚧 In progress |
 | Accounts Receivable Ageing Analysis | SQL · Power BI | 🔜 Planned |
 | Support Ticket Analysis | Excel · SQL · Power BI | 🔜 Planned |
